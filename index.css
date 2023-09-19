@@ -1,0 +1,72 @@
+body{
+    background-image:url("homebg.png");
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+.btn
+{
+    width: 250px;
+    height: 250px;
+    margin-right: 100px;
+    border-radius: 35px;
+    background-image: url("https://res.cloudinary.com/dmysqtqol/image/upload/v1676088198/vjsstuthrokhqiotj1pk.jpg");
+    background-size: cover;
+    border-color: white;
+    
+}
+.btn1
+{
+    width: 250px;
+    height: 250px;
+    margin-left: 200px;
+    border-radius: 35px;
+    background-image: url("https://res.cloudinary.com/dmysqtqol/image/upload/v1676088587/images_y4vh7r.jpg");
+    background-size: cover;
+    border-color: white;
+}
+.btn2
+{
+    width: 250px;
+    height: 250px;
+    margin-right: 100px;
+    border-radius: 35px;
+    background-image: url("xylo.jpeg");
+    background-size: cover;
+    border-color: white;
+}
+.btn3
+{
+    width: 250px;
+    height: 250px;
+    margin-left: 200px;
+    border-radius: 35px;   
+    background-image: url("pan-flute.jpg");
+    background-size: cover;
+    border-color: white;
+}
+.div1
+{
+    margin-top: 50px;
+}
+.pressed
+{
+    box-shadow: 0 3px 4px 0 #DBEDF3;
+    opacity: 0.5;
+}
+.div2
+{
+    margin-top: 50px;
+    margin-bottom: 50px;
+}
+.div3
+{
+    background-image: url("homebg.png");
+    background-repeat: no-repeat;
+    background-size: cover;
+    border-color: white;
+    margin-top: 50px;
+    margin-left:100px ;
+    margin-right: 100px;
+    border-radius: 25px;
+    box-shadow: 0px 0px 5px 5px white;
+}

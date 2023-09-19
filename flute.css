@@ -1,0 +1,77 @@
+body{
+  background-image:url("https://c0.wallpaperflare.com/preview/346/67/784/art-background-blur-branch.jpg");
+  background-size:cover;
+  background-repeat:no-repeat;
+}
+
+
+
+.div1
+{
+  margin-top: 150px;
+}
+.bnt1
+{
+  height: 500px;
+  width:35px;
+}
+.bnt2
+{
+  height:475px;
+  width:35px;
+}
+.bnt3
+{
+  height:450px;
+  width:35px;
+}
+.bnt4
+{
+  height:425px;
+  width:35px;
+}
+.bnt5
+{
+  height:400px;
+  width:35px;
+}
+.bnt6
+{
+  height:375px;
+  width:35px;
+}
+.bnt7
+{
+  height:350px;
+  width:35px;
+}
+.bnt8
+{
+  height:325px;
+  width:35px;
+}
+.bnt9
+{
+  height:300px;
+  width:35px;
+}
+.bnt10
+{
+  height:275px;
+  width:35px;
+}
+.bnt{
+  background-color: #eed4c5;
+  border-bottom-right-radius: 15px;
+  border-bottom-left-radius:15px;
+  position: relative;
+}
+.div2
+{
+  background-color: #d86643;
+  color:#d86643;
+  position: absolute;
+  z-index: 9;
+  margin-top: 30px;
+  width:350px;
+}
